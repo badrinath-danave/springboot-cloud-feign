@@ -19,7 +19,7 @@ public class SpringbootCloudFeignApplication {
 
 	@Autowired
 	private UserClient userClient;
-	
+	//
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootCloudFeignApplication.class, args);
 	}
